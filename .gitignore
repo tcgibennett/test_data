@@ -1,0 +1,5 @@
+.DS_Store
+/.metals/
+/.venv/
+/.vscode/
+test.dat
